@@ -7,7 +7,7 @@
 }
 
 .tagLine {
-    font-size: 4vw !important;
+    font-size: 3.5vw !important;
     font-family: 'Josefin Sans', sans-serif;
     color: white;
     overflow-y: hidden !important;
@@ -38,7 +38,7 @@ p {
 .gif {
     width: inherit;
     height: auto;
-    border-radius: 100px !important;
+    border-radius: 53px !important;
 }
 
 @media (max-width: 767px) {
